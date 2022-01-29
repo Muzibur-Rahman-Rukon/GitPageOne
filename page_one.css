@@ -1,0 +1,20 @@
+h1{
+    color: #000000;
+}
+h2{
+    color:#FFEBCD;
+}
+h3{
+    font-family: "Times New Roman", Times, serif;
+}
+h4{
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+}
+h5{
+   text-shadow: 2px 2px;
+}
+h6{
+   font-size: 40px;
+}
